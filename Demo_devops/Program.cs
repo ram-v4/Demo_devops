@@ -10,7 +10,7 @@ namespace Demo_devops
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello")
+            Console.WriteLine("Hello");
         }
     }
 }
